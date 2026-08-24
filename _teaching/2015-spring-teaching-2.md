@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Teacher assistant"
 collection: teaching
-type: "Workshop"
+type: "TA"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Blekinge Institute of Technology"
+date: 2026-01-01
+location: "Karlskrona, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teacher assistant, Course: Extended Reality (XR) Applications and Interaction Techniques.
+Facilitated lab sessions and mentored students in VR project development using Unity and
+Unreal Engine.
 
 Heading 1
 ======
