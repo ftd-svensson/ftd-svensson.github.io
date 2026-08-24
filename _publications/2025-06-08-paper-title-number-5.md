@@ -8,5 +8,3 @@ venue: 'GRIVAPP 2026'
 paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://www.scitepress.org/Link.aspx?doi=10.5220/0014327100004728)'
 citation: 'Svensson, F., Sundstedt, V., Hu, Y. and Rossholm, A. (2026). Perceptual Evaluation of Physically-Based Sound Propagation in Virtual Environments. In Proceedings of the 21st International Conference on Computer Graphics, Interaction and Visualization Theory and Applications - GRIVAPP; ISBN 978-989-758-803-7, SciTePress, pages 288-297. DOI: 10.5220/0014327100004728'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
