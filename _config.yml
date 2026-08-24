@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Please give me a job"
 title_separator          : "-"
 name                     : &name "Fredrik Svensson"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "81yg-dRxBVL._UF894,1000_QL80_.jpg"
   name             : "Fredrik Svensson"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : # "he/him" example: "she/her"  
   bio              : "Fighting evil by moonlight"
   location         : "Sweden"
   employer         : "Blekinge Institute of Technology"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username example: "bsky.app" , Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/fredrik-svensson-a2ab9a332/" # Username
+  linkedin         : "fredrik-svensson-a2ab9a332/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
