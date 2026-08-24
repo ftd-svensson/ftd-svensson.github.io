@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Please give me a job"
 title_separator          : "-"
 name                     : &name "Fredrik Svensson"
@@ -24,24 +24,24 @@ repository               : "ftd-svensson/ftd-svensson.github.io"
 author:
   # Biographic information
   avatar           : "81yg-dRxBVL._UF894,1000_QL80_.jpg"
-  name             : "Pretty Guardian"
+  name             : "Fredrik Svensson"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Fighting evil by moonlight"
   location         : "Sweden"
-  employer         : "Blekinge Institute of Euro-Techno"
+  employer         : "Blekinge Institute of Technology"
   uri              : # URL
   email            : "ftd-svensson@outlook.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL example: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-4742-1113"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ftd-svensson"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/fredrik-svensson-a2ab9a332/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
