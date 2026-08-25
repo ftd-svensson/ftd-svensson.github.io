@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Researcher/Thesis student"
 collection: teaching
-type: "Undergraduate course"
+type: "Intermittent employment – Master Thesis work"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Blekinge Institute of Technology"
+date: 2025-01-01
+location: "Karlskrona, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conducted research in real-time simulation, resulting in a peer-reviewed conference paper presented at GRIVAPP 2026.
 
 Heading 1
 ======
