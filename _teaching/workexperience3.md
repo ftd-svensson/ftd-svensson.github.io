@@ -4,7 +4,7 @@ collection: teaching
 type: "Fixed-term and summer employment via SKILL"
 permalink: /teaching/workexperience3
 venue: "NKT, Conductor manufacturing"
-date: 2020-01-01 to 2023-01-02
+date: "2020 to 2023"
 location: "Karlskrona, Sweden"
 ---
 
