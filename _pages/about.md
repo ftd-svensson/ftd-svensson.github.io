@@ -9,8 +9,7 @@ redirect_from:
 
 ## Quick overview
 
-Master of Science in Engineering with a focus on C++ software development, 3D graphics, and real time simulation. Strong academic background in game engine development, VR systems, and performance-oriented programming. 
-Hands-on experience with Unreal Engine, DirectX rendering fundamentals, and shader development through coursework and project work.
+Master of Science in Engineering with a focus on C++ software development, 3D graphics, and real time simulation. Strong academic background in game engine development, VR systems, and performance-oriented programming. Hands-on experience with Unreal Engine, DirectX rendering fundamentals, and shader development through coursework and project work.
 
 ### Core Competencies:
 - C++ development with a focus on real-time and performance-oriented applications.
