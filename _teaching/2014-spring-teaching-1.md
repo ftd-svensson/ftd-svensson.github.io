@@ -4,7 +4,7 @@ collection: teaching
 type: "Intermittent employment – Master Thesis work"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Blekinge Institute of Technology"
-date: 2025-01-01
+date: "2025"
 location: "Karlskrona, Sweden"
 ---
 
