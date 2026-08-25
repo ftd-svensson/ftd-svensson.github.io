@@ -1,7 +1,7 @@
 ---
 title: "Teacher assistant"
 collection: teaching
-type: "TA"
+type: "Intermittent employment"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Blekinge Institute of Technology"
 date: 2026-01-01
