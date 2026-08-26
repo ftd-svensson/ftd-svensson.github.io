@@ -10,12 +10,3 @@ location: "Karlskrona, Sweden"
 ---
 
 Operated and maintained precision cutting machinery for cable insulation production.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
