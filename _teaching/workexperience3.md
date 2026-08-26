@@ -10,12 +10,3 @@ location: "Karlskrona, Sweden"
 ---
 
 Managed production line operations, including material handling, wire/tape loading, and quality supervision
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
