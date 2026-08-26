@@ -9,13 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+[**View my full resume (ENG-PDF)**](/files/ftd-Resume-ENG.pdf)
+[**View my full resume (SWE-PDF)**](/files/ftd-Resume-ENG.pdf)
+
 Education
 ======
-* Master of Science in Engineering: Game and Software Engineering
-Blekinge Institute of Technology - 2026
-Focus on C++ software engineering, 3D systems, and performance optimization.
-Master Thesis at HINTS where I investigated material properties and spatial audio in virtual environments.
-* Upper secondary technical degree
+**Master of Science in Engineering — Game and Software Engineering**  
+*Blekinge Institute of Technology, 2026*
+
+Focus on **C++ software engineering, 3D systems, and performance optimization**.  
+Master's thesis conducted at **HINTS**, investigating material properties and spatial audio in virtual environments.
+
+**Upper Secondary Technical Degree**  
+*Ehrensvärdska Gymnasiet, 2016*
 
 Work experience
 ======
