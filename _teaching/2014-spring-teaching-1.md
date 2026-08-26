@@ -10,12 +10,3 @@ location: "Karlskrona, Sweden"
 ---
 
 Conducted research in real-time simulation, resulting in a peer-reviewed conference paper presented at GRIVAPP 2026.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
