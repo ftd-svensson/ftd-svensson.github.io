@@ -9,37 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-[**View my full resume (ENG-PDF)**](/files/ftd-Resume-ENG.pdf)
-[**View my full resume (SWE-PDF)**](/files/ftd-Resume-ENG.pdf)
+## Full Resume
 
-Education
-======
-**Master of Science in Engineering — Game and Software Engineering**  
-*Blekinge Institute of Technology, 2026*
+**English:** [View Resume (PDF)](/files/ftd-Resume-ENG.pdf)  
+**Swedish:** [View Resume (PDF)](/files/ftd-Resume-SWE.pdf)
 
-Focus on **C++ software engineering, 3D systems, and performance optimization**.  
+## Education
+
+### Master of Science in Engineering — Game and Software Engineering
+*Blekinge Institute of Technology · 2026*
+
+Focus on **C++ software engineering, 3D systems, and performance optimization**.
+
 Master's thesis conducted at **HINTS**, investigating material properties and spatial audio in virtual environments.
 
-**Upper Secondary Technical Degree**  
-*Ehrensvärdska Gymnasiet, 2016*
+### Upper Secondary Technical Degree
+*Ehrensvärdska Gymnasiet · 2016*
 
-Work experience
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+## Skills
+
+- **Programming:** C/C++, C#, Python, ARM/Intel Assembler, Javascript
+- **3D & Graphics:** 3D systems, real-time rendering
+- **Tools:** Unreal Engine, Git, Visual Studio, Windows, Linux
+- **Other:** Performance optimization, Basic Machine learning, Basic AI
+
+## Publications
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
