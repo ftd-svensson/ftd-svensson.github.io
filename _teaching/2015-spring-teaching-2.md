@@ -5,7 +5,7 @@ type: "Intermittent employment"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Blekinge Institute of Technology"
 date: 2026-01-01
-date_range: "2026"
+daterange: "2026"
 location: "Karlskrona, Sweden"
 ---
 
