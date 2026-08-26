@@ -21,7 +21,7 @@ redirect_from:
 
 Focus on **C++ software engineering, 3D systems, and performance optimization**.
 
-Master's thesis conducted at **HINTS**, investigating material properties and spatial audio in virtual environments.
+Master's thesis conducted at **[HINTS](https://www.bth.se/forskningsmiljoer/hints-human-centered-intelligent-realities)**, investigating material properties and spatial audio in virtual environments.
 
 ### Upper Secondary Technical Degree
 *Ehrensvärdska Gymnasiet · 2016*
