@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Please give me a job"
+title: "Game and Software Engineer"
 author_profile: true
 redirect_from: 
   - /about/
