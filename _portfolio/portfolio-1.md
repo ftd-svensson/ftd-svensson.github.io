@@ -13,10 +13,10 @@ More information on the actual paper and its results is available at:
 
 #### Demo Videos:
 <video style="width: 100%; height: auto;" controls>
-  <source src="/files/Video Project 2.mp4" type="video/mp4">
+  <source src="/files/Video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <video style="width: 100%; height: auto;" controls>
-  <source src="/files/Video Project 2(2).mp4" type="video/mp4">
+  <source src="/files/Video2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
