@@ -8,6 +8,12 @@ collection: portfolio
 
 This project was developed using Unreal Engine 5.5 and Steam Audio to conduct a user study in which participants evaluated spatial audio across different indoor materials and acoustic configurations.
 
+Demo Videos:
+<video style="width: 100%; height: auto;" controls>
+  <source src="/files/Video Project 2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 More information on the actual paper and its results is available at:
 
 [Perceptual Evaluation of Physically-Based Sound Propagation in Virtual Environments](/publications/2025-06-08-paper-title-number-5/)
