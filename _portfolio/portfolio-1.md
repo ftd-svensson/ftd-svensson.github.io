@@ -1,6 +1,6 @@
 ---
 title: "Thesis Project"
-excerpt: "A user study investigating how material properties influence the user experience of spatial audio in VR. <br/><img src='/images/bird-dance.gif' style='width: 50%; height: auto;'><img src='/images/bird-dance.gif' style='width: 50%; height: auto;'>"
+excerpt: "A user study investigating how material properties influence the user experience of spatial audio in VR. <br/><img src='/images/Bild1.png' style='width: 49%; height: auto;'><img src='/images/Bild2.png' style='width: 49%; height: auto;'>"
 collection: portfolio
 ---
 
