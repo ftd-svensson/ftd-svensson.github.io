@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tinker Tails"
+excerpt: "A fast-paced multiplayer team action game about building airships! The whole program was built from scratch in 14 weeks. <br/><img src='/images/PosterV2.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Tinker Tails is a fast-paced multiplayer team action game about building airships. The whole program was built from scratch in 14 weeks and functioned as a final game project before our thesis.
+
