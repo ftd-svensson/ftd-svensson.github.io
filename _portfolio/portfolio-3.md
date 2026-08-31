@@ -1,6 +1,6 @@
 ---
 title: "Jurassic Gainz"
-excerpt: "A single-player arena shooter where you must defeat dinosaurs to get back your eggs! The whole program was built from scratch in 6 weeks. <br/><img src='images/Skärmbild 2026-08-31 143334.png' width='600'>"
+excerpt: "A single-player arena shooter where you must defeat dinosaurs to get back your eggs! The whole program was built from scratch in 6 weeks. <br/><img src='images/JG.png' width='600'>"
 collection: portfolio
 ---
 
